@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 murali
 ajay
 kalyan
@@ -7,3 +8,7 @@ Lalitha
 Priya
 Sravan
 Abhilash
+=======
+Ajay
+Murali
+>>>>>>> 550d7c26586488bff653b0a4b5aaee2c580df764
